@@ -1,0 +1,12 @@
+﻿LINK=cartes.ods
+
+BORDER = ROUNDED, #ABFF09, 0.5
+CHROMAKEY = TOPLEFT
+
+IMAGE = 1-3, [Img],  0, 0, 100%, 50%, 0, PN
+
+FONT="Segoe UI",12,B,#000000
+TEXT = 1-3, [Nom], 0, 50%, 100%, 15%
+
+FONT="Segoe UI Semibold",10,,#000000
+TEXT = 1-3, [Description], 0, 65%, 100%, 30%

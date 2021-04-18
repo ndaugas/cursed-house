@@ -1,0 +1,6 @@
+[submodule "renpy"]
+	path = renpy
+	url = git@github.com:ndaugas/RenpyCursedHouse.git
+[submodule "CardGenerator"]
+	path = CardGenerator
+	url = git@github.com:ndaugas/CardGenerator.git

@@ -1,0 +1,2 @@
+Nom,Type,Cout,Description,Image
+;Eclat de Mana,Mana,,2 Mana,mana_little_shard
